@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-🙋🏼‍♂️ I am **Oitihjya Sen**, a lawyer-turned programmer from India. 
+🙋🏼‍♂️ I am **Oitihjya Sen**, a lawyer-turned software engineer from India. Currently, I work as a backend engineer at [Helpshift](https://helpshift.com/). 
 
-🖥️ I am currently attending the Winter '22 batch of the [**Recurse Center**](https://www.recurse.com/), New York.
+🖥️ I attended the Winter '22 batch of the [**Recurse Center**](https://www.recurse.com/), New York.
 
 👩🏼‍⚖️ I have previously worked as a [**Research Fellow**](https://vidhilegalpolicy.in/team/oitihjya-sen/) at India’s [leading legal think tank](https://vidhilegalpolicy.in/) (2019-21), where I contributed towards [modernizing India’s bankruptcy legal framework](https://vidhilegalpolicy.in/wp-content/uploads/2020/07/Report-on-Pre-Packaged-Insolvency-Resolution.pdf).
 
